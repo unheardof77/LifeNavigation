@@ -1,8 +1,9 @@
-import './App.css';
+import AddTodosPage from './pages/addTodos/addTodos';
 
 function App() {
   return (
     <>
+      <AddTodosPage/>
     </>
   );
 }
